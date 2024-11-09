@@ -1,5 +1,5 @@
-PersonalFinanceManager
-├── src
+PersonalFinanceManager/
+├── src/
 │   ├── com.finance.model       // For models (User, Transaction, Budget)
 │   ├── com.finance.dao         // For Data Access Objects (UserDAO, TransactionDAO)
 │   ├── com.finance.util        // For utilities (DatabaseConnection)
